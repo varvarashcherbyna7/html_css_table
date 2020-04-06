@@ -1,0 +1,151 @@
+
+.header-table {
+    width: 1143px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    border: 1px solid #3a4965;
+    border-width: 24px 30px 31px 22px;
+    color: #484848;
+}
+th, td {
+    border-left: 1px solid #e3e3e3;
+    vertical-align: middle;
+}
+.header-table-text{
+    width: 300px;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(72, 72, 72, 255);
+    text-transform: uppercase;
+}
+.header-text {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.header-green-bot {
+    width: 277px;
+    background-color: #89c331;
+}
+
+.header-bot-text {
+    display: inline-block;
+    font-family: 'Arimo', sans-serif;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 255);
+    padding-top: 27px;
+    padding-bottom: 25px;
+}
+.header-pink-bot {
+    width: 279px;
+    background-color: #f04a56;
+}
+.header-pink-bot-text{
+    display: inline-block;
+    font-family: 'Arimo', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 255);
+    padding-top: 27px;
+    padding-bottom: 21px;
+}
+.header-blue-bot {
+    width: 277px;
+    background-color: #20807c;
+}
+.header-prise-row {
+    position: relative;
+    height: 69px;
+}
+.header-prise {
+    position: absolute;
+    top: 105px;
+    margin-left: 33px;
+    padding-bottom: 18px;
+    font-family: 'Arimo', sans-serif;
+    font-size: 60px;
+    color: rgba(72, 72, 72, 255);
+}
+.header-prise-up {
+    vertical-align: super;
+    font-family: 'Arimo', sans-serif;
+    font-size: 24px;
+    color: rgba(72, 72, 72, 255);
+}
+.header-per-month {
+    font-family: 'Arimo', sans-serif;
+    font-size: 18px;
+    color: rgba(72, 72, 72, 255);
+    text-transform: uppercase;
+    margin-top: 34px;
+    margin-left: -30px;
+}
+.content-table:nth-child(2n-1) {
+    background-color: #f2f2f2;
+}
+.content-table:nth-child(2n) {
+    background-color: #e3e3e3;
+}
+.content-table-text {
+    font-family: 'Arimo', sans-serif;
+    font-size: 16px;
+    color: rgba(72, 72, 72, 255);
+    text-transform: uppercase;
+    border-right: 1px solid #dadada;
+}
+.content-text {
+    display: inline-block;
+    height: 40px;
+    padding-top: 29px;
+}
+.content-icon {
+    padding-right: 12px;
+}
+.content-input-color {
+    width: 310px;
+    height: 110px;
+    background-color:#dddddd;
+}
+.content-bot {
+    width: 192px;
+    height: 49px;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 -9px 0 rgba(0,0,0,.05) inset;
+}
+.content-bot-black {
+    background-color: #484848;
+}
+.content-bot-black:hover {
+    background-color: #404040;
+    color: #dddddd;
+}
+.content-bot-green {
+    background-color: #89c331;
+}
+.content-bot-green:hover {
+    background-color: #79b027;
+    color: #dddddd;
+}
+.content-bot-red {
+    background-color:#f04a56;
+}
+.content-bot-red:hover {
+    background-color: #df3a46;
+    color: #dddddd;
+}
+.content-bot-blue {
+    background-color: #20807c;
+}
+.content-bot-blue:hover {
+    background-color: #16736f;
+    color: #dddddd;
+}
